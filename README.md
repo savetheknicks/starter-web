@@ -10,8 +10,8 @@ using a web project.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. More text here.
 
 ## Deployment
-
+blah blah blah
 ## How To Contribute
