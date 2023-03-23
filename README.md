@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. More text here.
 ## Deployment
 blah blah blah
 ## How To Contribute
+
+## Copyright
+
+2014 Git.Training
