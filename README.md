@@ -16,6 +16,8 @@ Sample website with plenty of files for demos. More text here.
 blah blah blah
 ## How To Contribute
 
+Please fork this repository and then issue PR for review.
+
 ## Copyright
 
 2014 Git.Training
